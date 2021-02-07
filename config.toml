@@ -1,0 +1,4 @@
+baseURL = "https://pianoes-musicez4.vercel.app"
+languageCode = "en-us"
+title = "Free Sheet Music For Beginners"
+theme = "hugo-theme-minos"
